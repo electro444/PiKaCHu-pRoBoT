@@ -39,8 +39,8 @@ from PikachuOpRobot.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`𝐇𝐢..𝐖𝐞𝐥𝐜𝐨𝐦𝐞` [😎](https://telegra.ph/file/aebae6e955f9ba4adcedf.jpg)
-`𝐈'𝐦` 𝐏𝐢𝐤𝐚𝐜𝐡𝐮 🤗
+`𝐇𝐢` [😎](https://telegra.ph/file/22c607a055b1f90153159.jpg)
+`𝐈'𝐦`🅺🅸🅽🅶 🅾🅵 🅿🅸🅺🅰🅲🅷🆄
 `𝐈'𝐦 𝐇𝐞𝐫𝐞 𝐓𝐨 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬.. 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐥𝐩 𝐁𝐮𝐭𝐭𝐨𝐧 𝐓𝐨 𝐅𝐢𝐧𝐝 𝐎𝐮𝐭 𝐌𝐨𝐫𝐞 𝐀𝐛𝐨𝐮𝐭 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞 𝐓𝐨 𝐌𝐲 𝐅𝐮𝐥𝐥 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥..`
 """
 
@@ -48,14 +48,14 @@ buttons = [[InlineKeyboardButton(text="🖤 𝐇𝐞𝐥𝐩 𝐀𝐧𝐝 𝐂�
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="👾 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 👾",
-                                  url="t.me/Pikachu_op_robot?startgroup=true"),
+buttons += [[InlineKeyboardButton(text="✨𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩✨",
+                                  url="t.me/KING_OF_PIKACHU_BOT?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🎉 𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎉",
-                                  url="https://t.me/TG_CODERS_UPDATES"),
+                                  url="https://t.me/eoupdateff"),
              InlineKeyboardButton(text="💝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 💝",
-                                  url="https://t.me/TG_X_CODERS"),
+                                  url="https://t.me/eosupportff"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="💫 𝐂𝐥𝐨𝐬𝐞 𝐌𝐚𝐢𝐧 𝐌𝐞𝐧𝐮 💫",
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="💫 𝐂𝐥𝐨𝐬𝐞 𝐌𝐚𝐢�
 
 
 HELP_STRINGS = f"""
-`𝐇𝐢.. 𝐈'𝐦` 𝐏𝐢𝐤𝐚𝐜𝐡𝐮 [😎](https://telegra.ph/file/8d7f24cd83fd817d3405f.jpg)
+`𝐇𝐢.. 𝐈'𝐦` 🅺🅸🅽🅶 🅾🅵 🅿🅸🅺🅰🅲🅷🆄 [😎](https://telegra.ph/file/22c607a055b1f90153159.jpg)
 `𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬..`"""
 
 IMPORTED = {}

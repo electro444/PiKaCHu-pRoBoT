@@ -1,10 +1,10 @@
-# 𝐏𝐢𝐤𝐚𝐜𝐡𝐮 🇮🇳
+# 🅺🅸🅽🅶 🅾🅵 🅿🅸🅺🅰🅲🅷🆄 🇮🇳
 <p align="center">
     <a href="https://github.com/shrvan42/PiKaCHu-pRoBoT/stargazers"><img src="https://img.shields.io/github/stars/shrvan42/PiKaCHu-pRoBoT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
     <a href="https://github.com/shrvan42/PiKaCHu-pRoBoT/network/members"><img src="https://img.shields.io/github/forks/shrvan42/PiKaCHu-pRoBoT?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
-![logo](https://telegra.ph/file/471cbb30e585ff4772300.jpg)
+![logo](https://telegra.ph/file/362fd5fa7c445f77627e1.jpg)
 <p align="center">
 
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
